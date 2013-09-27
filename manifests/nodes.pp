@@ -1,3 +1,3 @@
-node 'cookbook1.ise.ie','cookbook2.ise.ie' {
+node 'cookbook1','cookbook2.ise.ie' {
   include puppet
 }
